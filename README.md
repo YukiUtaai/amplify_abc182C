@@ -19,9 +19,36 @@ folder = "ABC182C/"
 現在Amplifyが重くて計算に時間がかかっていますので、後日結果を貼ります。
 
 オール9のケース（handmade_00.txt）で間違ってしまっているので、計算時間を増やせば改善するか確認します。
+→改善しました。
 
 ```shell
-
+all_00.txt Amplify結果 = 0 正解 = 0
+all_01.txt Amplify結果 = -1 正解 = -1
+all_02.txt Amplify結果 = 1 正解 = 1
+all_03.txt Amplify結果 = -1 正解 = -1
+all_04.txt Amplify結果 = 2 正解 = 2
+all_05.txt Amplify結果 = -1 正解 = -1
+all_06.txt Amplify結果 = 1 正解 = 1
+all_07.txt Amplify結果 = 0 正解 = 0
+all_08.txt Amplify結果 = 0 正解 = 0
+all_09.txt Amplify結果 = 1 正解 = 1
+all_10.txt Amplify結果 = 1 正解 = 1
+all_11.txt Amplify結果 = -1 正解 = -1
+all_12.txt Amplify結果 = 2 正解 = 2
+all_13.txt Amplify結果 = 1 正解 = 1
+all_14.txt Amplify結果 = 1 正解 = 1
+all_15.txt Amplify結果 = 0 正解 = 0
+all_16.txt Amplify結果 = 0 正解 = 0
+handmade_00.txt Amplify結果 = 0 正解 = 0
+random_00.txt Amplify結果 = 1 正解 = 1
+random_01.txt Amplify結果 = -1 正解 = -1
+random_02.txt Amplify結果 = 1 正解 = 1
+random_03.txt Amplify結果 = 0 正解 = 0
+random_04.txt Amplify結果 = 0 正解 = 0
+sample_01.txt Amplify結果 = 1 正解 = 1
+sample_02.txt Amplify結果 = 0 正解 = 0
+sample_03.txt Amplify結果 = 1 正解 = 1
+sample_04.txt Amplify結果 = -1 正解 = -1
 ```
 
 ## 考え方
